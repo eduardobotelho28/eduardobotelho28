@@ -1,6 +1,7 @@
 # 💫 About Me:
-Me chamo Eduardo Botelho e sou Desenvolvedor de Software. <br>Além de estar atuando no mercado de programação e desenvolvimento, <br>estou sempre estudando novas tecnologias e criando novos projetos/aplicações.
+Me chamo Eduardo Botelho e sou Desenvolvedor de Software. Com uma paixão constante por tecnologia, estou sempre explorando novas ferramentas e tendências do mercado. Além de atuar profissionalmente na área de programação e desenvolvimento, dedico meu tempo a criar projetos inovadores e a aprimorar minhas habilidades com tecnologias emergentes.
 
+My name is Eduardo Botelho, and I am a Software Developer. With a relentless passion for technology, I constantly explore new tools and market trends. In addition to working professionally in programming and development, I dedicate my time to creating innovative projects and enhancing my skills with emerging technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/e.botelhoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-botelho-94594a311) 
